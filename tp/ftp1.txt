@@ -1,0 +1,8 @@
+open 192.168.4.53
+ftp
+ftp
+cd document
+lcd D:\zhouxiang\localfiles
+get 【中软国际】前端阶段性测试-3.doc
+bye
+exit
